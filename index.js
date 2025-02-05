@@ -1,1 +1,1 @@
-alert("coucou");    
+alert("VOICI UNE ALERTE JS");    
