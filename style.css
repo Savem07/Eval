@@ -1,0 +1,31 @@
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color: yellow;
+}
+
+#section1 {
+    display: inline-block;
+    margin-top: 0%;
+    width: 100%;
+    justify-items: center;
+}
+
+#page1 {
+    text-align: left;
+    width: auto;
+}
+
+#page2 {
+    text-align: center;
+    width: auto;
+}
+
+#page3 {
+    text-align: right;
+    width: auto;
+}
